@@ -22,6 +22,7 @@
 3) Trust v2 DB = (~800) Transcription Factor & Target Binding (8,444)  (Ref 3)
 	- Automated literature search then Manually curated literature based TF & Targets
 	- 3 Category Types for Targets: Repressive, Activating, Unknown 
+	- GMT files within directory
 
 ## Future To Add or Consider:
 
