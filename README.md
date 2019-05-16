@@ -4,20 +4,20 @@
 1) (1,639) List of ‘All’ Known TFs (Ref 1 & 2)
    Incorpates Following Sources:
    
-	* CIS-BP Database: Catalog of Inferred Sequence Binding Preferences	
-	CISBP-RNA Database: Catalog of Inferred Sequence Binding Preferences of RNA binding proteins
-	TRANSFAC motif database
-	JASPAR motif database
-	HocoMoco motif database
-	Uniprobe PBM database
-	Vaquerizas et al TF census
-	TFCat
-	TFClass
-	Protein Data Bank (PDB)
-	Pfam
-	SMART
-	Interpro
-	Gene Ontology
+	- CIS-BP Database: Catalog of Inferred Sequence Binding Preferences	
+	- CISBP-RNA Database: Catalog of Inferred Sequence Binding Preferences of RNA binding proteins
+	- TRANSFAC motif database
+	- JASPAR motif database
+	- HocoMoco motif database
+	- Uniprobe PBM database
+	- Vaquerizas et al TF census
+	- TFCat
+	- TFClass
+	- Protein Data Bank (PDB)
+	- Pfam
+	- SMART
+	- Interpro
+	- Gene Ontology
 2) TF Expression Specifity (Ref 1 & 2)
 3) Trust v2 DB = (~800) Transcription Factor & Target Binding (8,444)  (Ref 3)
 	- Automated literature search then Manually curated literature based TF & Targets
