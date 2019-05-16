@@ -4,7 +4,7 @@
 1) (1,639) List of ‘All’ Known TFs (Ref 1 & 2)
    Incorpates Following Sources:
    
-	CIS-BP Database: Catalog of Inferred Sequence Binding Preferences	
+	* CIS-BP Database: Catalog of Inferred Sequence Binding Preferences	
 	CISBP-RNA Database: Catalog of Inferred Sequence Binding Preferences of RNA binding proteins
 	TRANSFAC motif database
 	JASPAR motif database
