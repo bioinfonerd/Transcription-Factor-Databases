@@ -33,6 +33,9 @@
 		- CHEA 
 		- MotifMap
 		- ENCODE
+2) https://saezlab.github.io/DoRothEA/
+	- Additional database 
+	- Garcia-Alonso, Luz, et al. "Benchmark and integration of resources for the estimation of human transcription factor activities." BioRxiv (2018): 337915
 
 ## Current Folder Structure & Explaination
 
